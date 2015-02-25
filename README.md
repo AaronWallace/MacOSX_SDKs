@@ -11,3 +11,5 @@ Contains the following:
 - MacOSX10.6.sdk
 - MacOSX10.7.sdk
 - MacOSX10.8.sdk
+- MacOSX10.9.sdk
+- MacOSX10.10.sdk
